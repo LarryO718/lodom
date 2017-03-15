@@ -1,0 +1,14 @@
+*{
+	font-family:'helvetica';
+	color:#555;
+	box-sizing: border-box;
+	/* this is a comment */
+}
+body{
+	padding:60px;
+	background: #9BDEFB;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center 120%;
+	background-attachment: fixed;
+}
