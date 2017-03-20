@@ -1,14 +1,29 @@
 *{
 	font-family:'helvetica';
-	color:#555;
+	color:#bb0a21;
 	box-sizing: border-box;
 	/* this is a comment */
 }
 body{
 	padding:60px;
-	background: #9BDEFB;
-	background-size: contain;
+	background-color:#f5b700;
+	background-image: url(../img/Batman-Logo.jpg);
 	background-repeat: no-repeat;
-	background-position: center 120%;
 	background-attachment: fixed;
+	background-position: center 100%;
+	height:400px;
+	width:50%;
+	margin: 50px 50px 50px 50px;
+	opacity: 1;
+
 }
+
+   img > > {
+   	float: left;
+   	margin: 10 10 10 10; 
+   }
+
+   nav{
+   	float: right;
+   	padding: 0px;
+   }
